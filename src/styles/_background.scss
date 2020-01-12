@@ -1,0 +1,10 @@
+.app {
+  background-image: url("../assets/cold.png");
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.6s ease-out;
+}
+
+.app.warm {
+  background-image: url("../assets/warm.png");
+}
