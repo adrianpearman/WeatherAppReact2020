@@ -8,3 +8,4 @@ Initially based off of Tyler Potts' React repositiory (https://github.com/TylerP
 * Register and create an API from the Open Weather API (https://openweathermap.org/)
 * Once an API key is obtained, update the `key` variable inside of the `public/src/utils/staticVariables.js`
 * Run application with `yarn start`or `npm start`
+* Live Link - https://adrianpearman.github.io/WeatherAppReact2020/
